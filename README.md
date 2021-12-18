@@ -2,7 +2,7 @@
 
 ## Live Demo
 
-[LAXXOLA](https://eye-spy-mern.web.app/)
+[LAXXOLA](https://sunglassshop-472b0.web.app/contact)
 
 ## Features
 
